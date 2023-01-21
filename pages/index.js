@@ -12,13 +12,13 @@ export default function Home() {
   const [weather, setWeather] = useState({});
   const [loading, setLoading] = useState(false);
 
-  const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${process.env.NEXT_PUBLIC_WEATHER_KEY}`;
+  const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&units=imperial&appid=${process.env.NEXT_PUBLIC_WEATHER_KEY}`;
   const fetchWeather = (e) => {
     e.preventDefault()
     setLoading(true);
     axios.get(url).then((response) => {
       setWeather(response.data)
-      // console.log(response.data)
+      console.log(response.data)
     })
     setCity('')
     setLoading(false)
@@ -42,6 +42,7 @@ export default function Home() {
           src='https://images.unsplash.com/photo-1454789476662-53eb23ba5907?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=752&q=80'
           layout="fill"
           className='object-cover'
+          alt="jimmy"
         />
         {/* Search */}
         <div className='relative flex justify-between items-center max-w-[500px] w-full m-auto pt-4 text-white z-10'>
