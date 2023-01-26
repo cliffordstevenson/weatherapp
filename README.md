@@ -1,6 +1,6 @@
 # Weather App
 
-## This Next.js project was designed with the intent of displaying weather information so that users can be aware of weather conditions before going outside or traveling.
+## This Next.js project was designed with the intent of displaying current weather information so that users can be aware of weather conditions before going outside or traveling.
 
 Weather Application designed in Next.js, styled with tailwind CSS with the OpenWeather API using axios for API calls. Axios is used to fetch all of our data from the OpenWeather API.
 
