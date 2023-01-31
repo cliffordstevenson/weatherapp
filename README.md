@@ -8,9 +8,9 @@ Weather Application designed in Next.js, styled with tailwind CSS with the OpenW
 
 ### User Story
 ```
-AS a user, 
-I WANT to look up a location and see the current weather conditions 
-SO THAT I can better prepare for vacation or travel by packing a raincoat or jacket during inclement weather
+AS someone who interacts with the climate everyday
+I WANT to see current weather conditions 
+SO THAT I can dress and plan my week accordingly
 ```
 
 ## Table of Contents
