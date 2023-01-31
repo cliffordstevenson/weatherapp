@@ -8,9 +8,9 @@ Weather Application designed in Next.js, styled with tailwind CSS with the OpenW
 
 ### User Story
 ```
-AS someone who interacts with the climate everyday
+AS someone who travels frequently
 I WANT to see current weather conditions 
-SO THAT I can dress and plan my week accordingly
+SO THAT I can prepare for the weather accordingly
 ```
 
 ## Table of Contents
@@ -61,7 +61,7 @@ Single contribution project
 ### Questions
 ##### Contact Me
 
-Feel free to contact me via GitHub or email with any feedback - thanks for checking out my code!
+Feel free to contact me via GitHub or email with any feedback 
 
 [GitHub u/cliffordstevenson](https://github.com/cliffordstevenson)
 clifford.andrew.stevenson@gmail.com
