@@ -30,7 +30,7 @@ SO THAT I can better prepare for vacation or travel by packing a raincoat or jac
 <a name="deployment"></a>
 ### Deployment
 
-[Business Admin Dashboard](https://cliffordstevenson.github.io/businessadmindashboard/)
+[Weather App](https://cliffordstevenson.github.io/weatherapp/)
 
 <a name="installation"></a>
 ### Installation
@@ -52,7 +52,7 @@ Single contribution project
 ![app-demo](./img/app-demo.gif) NOT YET POSTED
 
 <a href="https://www.youtube.com/watch?v=j_0gAi-mRqQ" target="_blank">
-  <img src="Screenshot_20230126_011340.png" alt="watch video" width=250 height=170 border=10 />
+  <img src="Screenshot_20230126_123355.png" alt="watch video" width=250 height=170 border=10 />
 </a>
 
 ----
