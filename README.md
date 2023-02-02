@@ -51,7 +51,7 @@ Single contribution project
 ##### App Demo
 ![app-demo](./img/app-demo.gif)
 
-<a href="https://www.youtube.com/watch?v=j_0gAi-mRqQ" target="_blank">
+<a href="https://www.youtube.com/watch?v=P7Sy5SdpQjo" target="_blank">
   <img src="Weather_-_Next_App_-_Google_Chrome_2023-01-24_00-38-30_AdobeExpress.gif" alt="watch video" width=250 height=170 border=10 />
 </a>
 
